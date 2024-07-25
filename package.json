@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "engines": {
-    "node": "^10.13 || 12 || 14 || 15",
+    "node": "^10.13 || 12 || 14 || 15 || 20.x",
     "npm": ">=6"
   },
   "dependencies": {
@@ -57,11 +57,7 @@
       "src/**/*.js"
     ]
   },
-  {
-  "engines": {
-    "node": "20.x"
-  }
-},
+ 
   "browserslist": {
     "development": [
       "last 2 chrome versions",
