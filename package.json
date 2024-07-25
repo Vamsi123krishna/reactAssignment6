@@ -57,6 +57,11 @@
       "src/**/*.js"
     ]
   },
+  {
+  "engines": {
+    "node": "20.x"
+  }
+},
   "browserslist": {
     "development": [
       "last 2 chrome versions",
